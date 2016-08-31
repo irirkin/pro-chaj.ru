@@ -1,0 +1,48 @@
+/*!
+	Theme Name: MyThemeTea
+	Theme URI: http://pro-chaj.ru
+	Description: Responsive blog theme
+	Author: Irina
+	Author URI: http://twitter.github.com/bootstrap/
+	Version: 1.0
+    License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) 
+	License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+*/
+
+
+body { 
+ padding-top: 60px; 
+ padding-bottom: 40px; 
+}
+
+h2 {
+font-family: 'Lobster', cursive;
+}
+
+h1 {
+    font-size: 32.5px;
+}
+
+.comment-form-email{
+    background: #ffff00;
+}
+
+
+
+
+.creativ-comment{
+    border-radius: 13px;
+    border-bottom: 7px double #8fc191;
+    padding: 1px;
+    margin-bottom: 1px;
+}
+
+.fn{
+    color: #20d648;
+}
+
+.reply{
+    text-decoration: underline;
+}
+
